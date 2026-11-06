@@ -1,0 +1,24 @@
+{
+  "name": "Gerador de Estratégia de Busca",
+  "short_name": "Busca RS",
+  "description": "Gere estratégias de busca para revisões sistemáticas (PubMed, Scopus, Web of Science, Embase).",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#0e7490",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
