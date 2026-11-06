@@ -1,5 +1,7 @@
 # Gerador de Estratégia de Busca
 
+https://resina37451-cell.github.io/gerador-busca-sistematica/
+
 > Ferramenta web gratuita para gerar estratégias de busca em revisões sistemáticas.
 
 Cole seus termos MeSH e termos livres, selecione as bases de dados e a estratégia sai pronta para copiar e colar — com o operador **OR** já aplicado — para **PubMed**, **Scopus**, **Web of Science** e **Embase**.
